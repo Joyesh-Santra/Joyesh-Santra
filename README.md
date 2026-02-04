@@ -1,7 +1,7 @@
 [![MasterHead](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)](https://Joyesh-Santra.io)
 
 <h1 align="center">Hi 👋, I'm Joy</h1>
-<h3 align="center">A passionate developer from India</h3>
+<h3 align="center">A exponential developer from India</h3>
 <img src="https://i.pinimg.com/originals/4c/be/0e/4cbe0e8eb42848fe2681ee73c5418923.gif" alt="Giyuu" width="498" height="281" style="float: right;">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=joyesh-santra&label=Profile%20views&color=0e75b6&style=flat" alt="joyesh-santra" /> </p>
